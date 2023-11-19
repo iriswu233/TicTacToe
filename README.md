@@ -22,4 +22,5 @@ O 2 3
 
 The symbol X represents the position chosen by the user, and the symbol O represents the position chosen by the AI.
 
-Keep playing the game until it ends, the game has two results: either one of the players wins or draws. The AI is able to win or draw in most situations.
+Keep playing the game until it ends, the game has two results: either one of the players wins or draws. 
+The AI is able to win or draw in most situations.
